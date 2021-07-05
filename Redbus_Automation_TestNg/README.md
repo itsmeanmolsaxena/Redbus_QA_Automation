@@ -1,4 +1,4 @@
-##Redbus Automation Project
+## Redbus Automation Project
 
 Hello, greetings of the day, hope you are doing well. I have created a Maven Project
 in Eclipse IDE using java. Here is a step by step guide of this project. 
@@ -6,7 +6,7 @@ in Eclipse IDE using java. Here is a step by step guide of this project.
 I will tell you how one can create the same project by following this README file.
 
 
-#####@Introduction
+##### @Introduction
 We are going to automate 20 scenarios on redbus site. The basic framework used is TestNG.
 Also, we are using selenium which is a portable framework.
 
@@ -15,7 +15,7 @@ This project will be developed in java and tested on chrome and firefox drivers.
 We will read the test data from an excel file, global information will be given 
 from the config file. The whole project has been implemented using POM (Page object model ).
 
-#####@Prerequisites
+#####@ Prerequisites
 1. Eclipse IDE
 
 2. JDK 8 installed
@@ -27,7 +27,7 @@ from the config file. The whole project has been implemented using POM (Page obj
 5. Jenkins installed
 
 
-#####@TestCases
+##### @TestCases
 We are gonna test various activities across different pages and in different flows. A basic 
 overview of test cases are:-
 1. Booking a bus. ----> ( 1 scenario )
@@ -46,7 +46,7 @@ overview of test cases are:-
 
 8. Redbus care activity in different payment modes. ----> ( 6 scenario )
 
-#####@How to create a maven project
+##### @How to create a maven project
 To create a maven project, you can follow this link
 
 * https://www.toolsqa.com/java/maven/create-new-maven-project-eclipse/#:~:text=How%20to%20Create%20a%20New%20Maven%20Project%20in,%E2%80%98%20and%20click%20on%20Next.%20More%20items...%20
@@ -62,7 +62,7 @@ after setting maven project, just make below packages and folders where your fil
 		3. a folder for reports
 		4. a folder for screenshots
 
-#####@Testfile overview
+##### @Testfile overview
 1. BaseTest :- All the basic code like browser initilization, reporting, close browser,
 loggers initilization and file handeling is done in base test file.
 
@@ -73,7 +73,7 @@ loggers initilization and file handeling is done in base test file.
 4. in tests package :- We have written the test cases.	
 
 
-#####@How to run 
+##### @How to run 
 There are many ways to run these tests.
 1. For individual test, click the 'Run' button. It is between the @Test tag and method name.
 
@@ -81,7 +81,7 @@ There are many ways to run these tests.
 
 3. To run all the test cases in all the classes, go to testng.xml, right click and run as testng suite.
 
-#####@Test Result
+##### @Test Result
 After test execution, we can see results in :
 
 1. Log files :- Log files will give us an idea how our test executed.
@@ -90,11 +90,11 @@ After test execution, we can see results in :
 
 3. Screenshot :- We have also added the screenshot to verify the test result.
 
-#####@Jar file
+##### @Jar file
 
 We have created a reusable library to capture screenshot and imported it as a jar file.
 
-#####@Headless Browsing
+##### @Headless Browsing
 
 What is headless testing?
 
@@ -108,27 +108,25 @@ resource-consuming process of rendering a visual display.
 For headless mode, you need to update the config file.
 Just keep the field true for headless and false for non headless.
 
-#####@TestData.xlsx file 
+##### @TestData.xlsx file 
 
 It is an excel file, we are passing some data from this file.
 
-######Note :- Filter test cases are test data specific.
+###### Note :- Filter test cases are test data specific.
 
 If the destination is 'Bareilly' and source is 'Delhi(all locations)', 
 then only the test will be passed. Date can be changed in future. But as of now,
 date is 16-July-2021 and tests are working fine.
 
-#####@Report 
+##### @Report 
 
 A HTML file is generated after test excution. Which is saved into Report folder.
 
-#####@Refrenced Library
+##### @Refrenced Library
 
 The reusable libray we have created is inside this folder.
 
-
-
-#####@Contact 
+##### @Contact 
 
 For any information or discussion, please contact at
 
