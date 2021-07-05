@@ -54,13 +54,18 @@ To create a maven project, you can follow this link
 after setting maven project, just make below packages and folders where your files will be stored.
 
 @packages :- 1. a package for pages
-			 2. a package for test files
-		3. a package for utilities
+
+2. a package for test files
+
+3. a package for utilities
 
 @folders :- 1. a folder for drivers (place driver.exe in this folder )
-			 2. a folder for log files
-		3. a folder for reports
-		4. a folder for screenshots
+
+2. a folder for log files
+		
+3. a folder for reports
+		
+4. a folder for screenshots
 
 ##### @Testfile overview
 1. BaseTest :- All the basic code like browser initilization, reporting, close browser,
