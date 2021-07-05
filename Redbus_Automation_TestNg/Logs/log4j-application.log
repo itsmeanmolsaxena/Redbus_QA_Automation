@@ -1,0 +1,150 @@
+2021-07-05 23:55:58,473  INFO [main] Redbus_BaseTest30 - clicked for 200/-
+2021-07-05 23:55:58,631  INFO [main] Redbus_BaseTest33 - clicked for 500/-
+2021-07-05 23:55:58,784  INFO [main] Redbus_BaseTest36 - clicked for 1000/-
+2021-07-05 23:55:58,934  INFO [main] Redbus_BaseTest39 - clicked for 2000/-
+2021-07-05 23:56:06,874  INFO [main] Redbus_BaseTest47 - Site is opened and we have clicked Manage Booking option
+2021-07-05 23:56:12,410  INFO [main] Redbus_BaseTest52 - https://www.redbus.in/Cancellation
+2021-07-05 23:56:12,412  INFO [main] Redbus_BaseTest53 - https://www.redbus.in/Reschedule
+2021-07-05 23:56:12,412  INFO [main] Redbus_BaseTest54 - https://www.redbus.in/Home/SmsAndEmailTicket
+2021-07-05 23:56:12,413  INFO [main] Redbus_BaseTest55 - https://www.redbus.in/Reschedule
+2021-07-05 23:56:24,209  INFO [main] Redbus_BaseTest64 - We have clicked on Redbus Cares button
+2021-07-05 23:56:29,441  INFO [main] Redbus_BaseTest66 - Payment method is selected as debit card
+2021-07-05 23:56:29,442  INFO [main] Redbus_BaseTest67 - Leaving details empty
+2021-07-05 23:56:29,513  INFO [main] Redbus_BaseTest69 - Error msg says that :- * Please enter valid card number
+2021-07-05 23:56:40,030  INFO [main] Redbus_BaseTest78 - We have clicked on Redbus Cares button
+2021-07-05 23:56:45,161  INFO [main] Redbus_BaseTest80 - Payment method is selected as Net Banking
+2021-07-05 23:56:45,245  INFO [main] Redbus_BaseTest82 - These are the banks available in net banking option :- 
+ ------ Select other bank ------
+Andhra Bank
+Bank of India
+Bank of Maharashtra
+Canara Bank
+Catholic Syrian Bank
+Central Bank of India
+City Union Bank
+Corporation Bank
+COSMOS Bank
+DCB Bank - Corporate Netbanking
+DCB Bank Business
+DCB Bank Limited
+Dena Bank
+Deutsche Bank
+Development Credit Bank (Retail)
+Dhanlakshmi Bank
+Federal Bank
+IDBI Bank
+Indian Overseas Bank
+IndusInd Bank
+Jammu & Kashmir Bank
+Janata Sahakari Bank Pune
+Karnataka Bank
+Karur Vysya - Corporate Netbanking
+Karur Vysya - Retail Netbanking
+Karur Vysya Net Bank
+Kotak Mahindra Bank
+Lakshmi Vilas Bank - Retail
+Laxmi Vilas Bank (Corporate)
+Oriental Bank of Commerce
+Punjab & Sind Bank
+Punjab And Maharashtra Co-operative Bank Limited
+Punjab National Bank (Corporate)
+Punjab National Bank (Retail)
+Saraswat Bank
+Shamrao Vitthal Co-operative Bank
+South Indian Bank
+State Bank of Bikaner and Jaipur
+State Bank of Hyderabad
+State Bank of Mysore
+State Bank of Patiala
+State Bank of Travancore
+The Nainital Bank
+UCO Bank
+Union Bank - Corporate Netbanking
+Union Bank - Retail Netbanking
+Union Bank of India
+United Bank of India
+Vijaya Bank
+2021-07-05 23:56:55,901  INFO [main] Redbus_BaseTest92 - We have clicked on Redbus Cares button
+2021-07-05 23:57:01,059  INFO [main] Redbus_BaseTest94 - Payment method is selected as other wallets
+2021-07-05 23:57:06,530  INFO [main] Redbus_BaseTest96 - We have clicked on amazon pay and we are redirected to :- Login with your Amazon account
+2021-07-05 23:57:16,554  INFO [main] Redbus_BaseTest105 - We have clicked on Redbus Cares button
+2021-07-05 23:57:21,794  INFO [main] Redbus_BaseTest107 - Payment method is selected as Paytm
+2021-07-05 23:57:25,091  INFO [main] Redbus_BaseTest109 - The url of that page is :- https://www.redbus.in/redbuscares/thankyou?status=WFT
+2021-07-05 23:57:32,746  INFO [main] Redbus_BaseTest118 - We have clicked on Redbus Cares button
+2021-07-05 23:57:37,979  INFO [main] Redbus_BaseTest120 - Payment method is selected as Phonepe
+2021-07-05 23:57:38,057  INFO [main] Redbus_BaseTest122 - We are redirected to :- Login to PhonePe
+2021-07-05 23:57:46,123  INFO [main] Redbus_BaseTest18 - Use Code First Offer is clicked
+2021-07-05 23:57:47,780  INFO [main] Redbus_BaseTest21 - This offer says :- Use code FIRST
+Save up to Rs 150 on bus tickets
+2021-07-05 23:58:07,076  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-05 23:58:12,533  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-05 23:58:15,887  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-05 23:58:15,916  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-05 23:58:15,918  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-05 23:58:16,467  INFO [main] Redbus_BaseTest75 - One of the arrival time filter is applied.
+2021-07-05 23:58:16,610  INFO [main] Redbus_BaseTest79 - Arrival time filter applied is :- 12 pm to 6 pm
+2021-07-05 23:58:35,239  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-05 23:58:40,864  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-05 23:58:44,051  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-05 23:58:44,076  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-05 23:58:44,077  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-05 23:58:44,481  INFO [main] Redbus_BaseTest88 - One of the boarding point filter is applied.
+2021-07-05 23:58:44,676  INFO [main] Redbus_BaseTest92 - Boarding point filter applied is :- RK Ashram
+2021-07-05 23:59:04,337  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-05 23:59:09,943  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-05 23:59:12,798  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-05 23:59:12,835  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-05 23:59:12,836  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-05 23:59:13,361  INFO [main] Redbus_BaseTest61 - One of the Bus type filter is applied.
+2021-07-05 23:59:13,558  INFO [main] Redbus_BaseTest65 - Bus type filter applied is :- AC
+2021-07-05 23:59:36,232  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-05 23:59:41,906  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-05 23:59:44,910  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-05 23:59:44,966  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-05 23:59:44,967  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-05 23:59:45,384  INFO [main] Redbus_BaseTest47 - One of the Departure time filter is applied
+2021-07-05 23:59:45,445  INFO [main] Redbus_BaseTest51 - Departure time filter applied is :- 6 am to 12 pm
+2021-07-06 00:00:08,422  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-06 00:00:13,837  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-06 00:00:18,526  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-06 00:00:18,543  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-06 00:00:18,544  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-06 00:00:19,340  INFO [main] Redbus_BaseTest102 - One of the dropping point filter is applied.
+2021-07-06 00:00:19,436  INFO [main] Redbus_BaseTest106 - Droping point filter applied is :- Bareilly Satellite
+2021-07-06 00:00:42,140  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-06 00:00:47,560  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-06 00:00:50,431  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-06 00:00:50,458  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-06 00:00:50,459  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-06 00:01:01,233  INFO [main] Redbus_BaseTest134 - We have updated the destination
+2021-07-06 00:01:21,909  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-06 00:01:27,450  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-06 00:01:30,228  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-06 00:01:30,254  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-06 00:01:30,255  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-06 00:01:30,984  INFO [main] Redbus_BaseTest145 - We have swiped the destination and source place.
+2021-07-06 00:01:49,639  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-06 00:01:55,133  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-06 00:01:58,186  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-06 00:01:58,212  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-06 00:01:58,213  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-06 00:01:59,268  INFO [main] Redbus_BaseTest116 - We have updated the date of travel.
+2021-07-06 00:02:19,006  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-06 00:02:24,488  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-06 00:02:27,487  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-06 00:02:27,522  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-06 00:02:27,523  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-06 00:02:38,705  INFO [main] Redbus_BaseTest156 - Error msg says that :- Enter valid source
+2021-07-06 00:02:38,706  INFO [main] Redbus_BaseTest157 - Error msg says that :- Enter valid Destination
+2021-07-06 00:02:59,837  INFO [main] Redbus_BaseTest29 - We have entered the Start Point.
+2021-07-06 00:03:05,337  INFO [main] Redbus_BaseTest31 - We have entered the destination.
+2021-07-06 00:03:07,741  INFO [main] Redbus_BaseTest34 - We have hit the search button after giving date.
+2021-07-06 00:03:07,785  INFO [main] Redbus_BaseTest38 - Header title is :- Search Bus Tickets
+2021-07-06 00:03:07,786  INFO [main] Redbus_BaseTest39 - We have successfully got the result of search bus operation.
+2021-07-06 00:03:15,603  INFO [main] Redbus_BaseTest30 - clicked on sign in button
+2021-07-06 00:03:33,775  INFO [main] Redbus_BaseTest35 - we are unable to proceed
+2021-07-06 00:03:33,776  INFO [main] Redbus_BaseTest41 - Element click is intercepted
+2021-07-06 00:03:41,045  INFO [main] Redbus_BaseTest60 - clicked on sign in button
+2021-07-06 00:03:57,967  INFO [main] Redbus_BaseTest66 - we are unable to proceed
+2021-07-06 00:03:57,967  INFO [main] Redbus_BaseTest72 - Element click is intercepted
+2021-07-06 00:03:58,968  INFO [main] Redbus_BaseTest189 - Browser closed...
