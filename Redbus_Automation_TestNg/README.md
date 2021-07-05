@@ -90,14 +90,6 @@ After test execution, we can see results in :
 
 3. Screenshot :- We have also added the screenshot to verify the test result.
 
-#### @How to run tests
-
-For a single test :- Click on the 'Run' option which is just below @Test tag.
-
-for all the tests in Test Class - Click on 'Run All' option which is just above the class name.
-
-For all the test cases :- Use Testng.xml to Run all test Classes by right click on Testng File -> Run As -> Testng suite.
-
 ##### @Jar file
 
 We have created a reusable library to capture screenshot and imported it as a jar file.
