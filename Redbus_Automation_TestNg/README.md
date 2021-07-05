@@ -15,7 +15,7 @@ This project will be developed in java and tested on chrome and firefox drivers.
 We will read the test data from an excel file, global information will be given 
 from the config file. The whole project has been implemented using POM (Page object model ).
 
-#####@ Prerequisites
+##### @Prerequisites
 1. Eclipse IDE
 
 2. JDK 8 installed
